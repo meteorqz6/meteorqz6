@@ -1,13 +1,35 @@
 ## Hi there 👋
 <div align="center">
   
-### Visitor count
+### Visitor Count
 <img src="https://profile-counter.glitch.me/meteorqz6/count.svg" />
 
 <br> 
+
+### Tech Stack
+
+<p>
+  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-flat-square&logo=React&logoColor=white"/>&nbsp
+  <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-flat-square&logo=C&logoColor=white"/>&nbsp
+  <img alt="javaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-flat-square&logo=JavaScript&logoColor=white"/>&nbsp
+  <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-5FA04E.svg?&style=for-flat-square&logo=JavaScript&logoColor=white"/>&nbsp
+  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-flat-square&logo=HTML5&logoColor=white"/>&nbsp
+  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-flat-square&logo=CSS3&logoColor=white"/>&nbsp
+</p>
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorqz6&layout=compact)
+
+### 
+
+<!--
+**bomii1/bomii1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bomii1&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bomii1&theme=solarized&utcOffset=8)
+-->
+
+
 
 <!--
 **meteorqz6/meteorqz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
