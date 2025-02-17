@@ -23,14 +23,14 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorqz6&layout=compact)
+<a href="https://solved.ac/nys8765"> 
+    <img height=140 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nys8765">
+  </a>
 
 <br>
 
 <a>
-    <img height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meteorqz6&theme=github"/>&nbsp
-  </a>
-  <a href="https://solved.ac/nys8765"> 
-    <img height=180 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nys8765">
+    <img height=140 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meteorqz6&theme=github"/>&nbsp
   </a>
 
 </div>
