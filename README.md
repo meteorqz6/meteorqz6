@@ -29,7 +29,7 @@
 <a>
     <img height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meteorqz6&theme=github"/>&nbsp
   </a>
-  <a href="https://solved.ac/gazette9"> 
+  <a href="https://solved.ac/nys8765"> 
     <img height=180 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nys8765">
   </a>
 
