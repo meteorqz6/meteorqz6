@@ -10,11 +10,14 @@
 
 <p>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-flat-square&logo=React&logoColor=white"/>&nbsp
-  <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-flat-square&logo=C&logoColor=white"/>&nbsp
-  <img alt="javaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-flat-square&logo=JavaScript&logoColor=white"/>&nbsp
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-flat-square&logo=Typescript&logoColor=white"/>&nbsp
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-flat-square&logo=JavaScript&logoColor=white"/>&nbsp
   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-5FA04E.svg?&style=for-flat-square&logo=JavaScript&logoColor=white"/>&nbsp
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-flat-square&logo=HTML5&logoColor=white"/>&nbsp
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-flat-square&logo=CSS3&logoColor=white"/>&nbsp
+  <img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-flat-square&logo=Tailwind CSS&logoColor=white"/>&nbsp
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-flat-square&logo=flutter&logoColor=white"/>&nbsp
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-flat-square&logo=C&logoColor=white"/>&nbsp
 </p>
 
 <br>
