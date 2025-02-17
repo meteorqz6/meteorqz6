@@ -24,8 +24,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorqz6&layout=compact)
 
-### 
+<br>
 
+<a>
+    <img height=180 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meteorqz6&theme=github"/>&nbsp
+  </a>
+  <a href="https://solved.ac/gazette9"> 
+    <img height=180 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nys8765">
+  </a>
+
+</div>
 <!--
 **bomii1/bomii1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bomii1&theme=solarized)
