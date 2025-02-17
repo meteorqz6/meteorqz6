@@ -1,5 +1,5 @@
-## Hi there 👋
-<div align="center">
+## Hi, I'm Yooseong 👋
+<div align="left">
   
 ### Visitor Count
 <img src="https://profile-counter.glitch.me/meteorqz6/count.svg" />
