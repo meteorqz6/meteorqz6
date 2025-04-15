@@ -23,9 +23,12 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorqz6&layout=compact)
+
+<!--
 <a href="https://solved.ac/nys8765"> 
     <img height=140 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nys8765">
   </a>
+-->
 
 <br>
 
@@ -34,26 +37,5 @@
   </a>
 
 </div>
-<!--
-**bomii1/bomii1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bomii1&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bomii1&theme=solarized&utcOffset=8)
--->
 
-
-
-<!--
-**meteorqz6/meteorqz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 </div>
