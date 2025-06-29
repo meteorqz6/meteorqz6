@@ -15,10 +15,16 @@
   <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-5FA04E.svg?&style=for-flat-square&logo=JavaScript&logoColor=white"/>&nbsp
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-flat-square&logo=HTML5&logoColor=white"/>&nbsp
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-flat-square&logo=CSS3&logoColor=white"/>&nbsp
-  <img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-flat-square&logo=Tailwind CSS&logoColor=white"/>&nbsp
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-flat-square&logo=flutter&logoColor=white"/>&nbsp
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-flat-square&logo=C&logoColor=white"/>&nbsp
 </p>
+
+
+### Awards
+- 제 12회 세종대학교 SW/AI 해커톤 장려상 (2025)
+- 제 17회 창의설계 경진대회 대상 (2024)
+- 제 1회 소프트웨어학과X컴퓨터공학과 연합 학술제(본선) 우수상 (2024)
+- 제 8회 SW코딩경시대회 장려상 (2021)
 
 <br>
 
