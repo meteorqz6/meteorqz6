@@ -19,15 +19,6 @@
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-flat-square&logo=C&logoColor=white"/>&nbsp
 </p>
 
-
-### Awards
-- 제 12회 세종대학교 SW/AI 해커톤 장려상 (2025)
-- 제 17회 창의설계 경진대회 대상 (2024)
-- 제 1회 소프트웨어학과X컴퓨터공학과 연합 학술제(본선) 우수상 (2024)
-- 제 8회 SW코딩경시대회 장려상 (2021)
-
-<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteorqz6&layout=compact)
 
 <!--
